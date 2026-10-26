@@ -33,7 +33,7 @@ A lightweight, productivity plugin for [Paseo](https://github.com/getpaseo/paseo
 ### Install
 
 ```bash
-paseo plugin add Ran-Xing/paseo-session-ids
+paseo plugin add XRSec/paseo-session-ids
 ```
 
 ---
@@ -69,7 +69,7 @@ paseo plugin add Ran-Xing/paseo-session-ids
 ### 🚀 安装与管理
 
 ```bash
-paseo plugin add Ran-Xing/paseo-session-ids
+paseo plugin add XRSec/paseo-session-ids
 ```
 
 本地开发管理：

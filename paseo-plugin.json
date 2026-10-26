@@ -1,6 +1,7 @@
 {
   "id": "session-ids",
   "name": "Session IDs",
+  "author": "XRSec",
   "description": "View and copy the current session Paseo ID and underlying CLI ID (supports agy, claude, pi, codex, and more).",
   "translations": {
     "zh-CN": {

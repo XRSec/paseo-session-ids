@@ -4,10 +4,10 @@
   "description": "View and copy the current session Paseo ID and underlying CLI session ID (supports agy, claude, pi, codex, and more).",
   "type": "module",
   "license": "MIT",
-  "author": "Ran-Xing",
+  "author": "XRSec",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ran-Xing/paseo-session-ids.git"
+    "url": "https://github.com/XRSec/paseo-session-ids.git"
   },
   "scripts": {
     "typecheck": "tsc --noEmit"
