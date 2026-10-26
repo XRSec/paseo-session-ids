@@ -1,0 +1,14 @@
+{
+  "id": "session-ids",
+  "name": "Session IDs",
+  "description": "View and copy the current session Paseo ID and underlying CLI ID (supports agy, claude, pi, codex, and more).",
+  "translations": {
+    "zh-CN": {
+      "name": "会话 ID",
+      "description": "查看并复制当前会话的 Paseo ID 与 CLI ID (支持 agy / claude / pi / codex 等)"
+    }
+  },
+  "requirements": {
+    "paseo": ">=0.13.0"
+  }
+}
